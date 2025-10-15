@@ -8,15 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Nubificus
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+
+        **Nubificus** is a specialized research group focused on tackling complex virtualization and cloud-edge computing challenges. The team regularly collaborates with leading academic institutions and R&D organizations on European projects, driving innovation in hardware acceleration, serverless frameworks, and resource orchestration for next-generation distributed infrastructures.
   - block: collection
     content:
       title: Latest News
@@ -56,25 +54,25 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+#  - block: collection
+#    content:
+#      title: Latest Preprints
+#      text: ""
+#      count: 5
+#      filters:
+#        folders:
+#          - publication
+#        publication_type: 'article'
+#    design:
+#      view: citation
+#      columns: '1'
+#
+#  - block: markdown
+#    content:
+#      title:
+#      subtitle:
+#      text: |
+#        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+#    design:
+#      columns: '1'
 ---

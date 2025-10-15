@@ -9,33 +9,88 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+        We’re always happy to hear from you. Whether you have questions about our projects, collaboration opportunities, or services, our teams are ready to assist.
+
+        With offices in multiple locations, we strive to provide timely responses and connect you with the right person for your needs. Use the interactive map below to explore our offices and find detailed contact information, including phone numbers, email addresses, and office hours.
+
+        We look forward to connecting with you and supporting your inquiries — your message is important to us.
+      locations:
+      - name: "Sheffield"
+        email: info@nubificus.co.uk
+        phone: +44 7428318494
+        address:
+          street: Office 159, Queen st 88
+          city: Sheffield
+          region: South Yorkshire
+          postcode: 'S10 3FW'
+          country: United Kingdom
+          country_code: UK
+        coordinates:
+          latitude: '53.38466'
+          longitude: '-1.46996'
+        directions: 
+        office_hours:
+          - 'Monday to Friday 10:00 to 18:00'
+        appointment_url: 'https://calendly.com'
+        #contact_links:
+        #  - icon: comments
+        #    icon_pack: fas
+        #    name: Discuss on Forum
+        #    link: 'https://discourse.gohugo.io'
+
+        # Automatically link email and phone or display as text?
+        autolink: true
+      - name: "Halkida"
+        email: info@nubis-pc.eu
+        phone: +30 2221 181522
+        address:
+          street: Tynnichou 4
+          city: Halkida
+          region: Evia
+          postcode: '34133'
+          country: Greece
+          country_code: GR
+        coordinates:
+          latitude: '38.46075'
+          longitude: '23.59060'
+        directions: Enter through the green door, take the stairs to the first floor
+        office_hours:
+          - 'Monday to Friday 10:00 to 18:00'
+        appointment_url: 'https://calendly.com'
+        #contact_links:
+        #  - icon: comments
+        #    icon_pack: fas
+        #    name: Discuss on Forum
+        #    link: 'https://discourse.gohugo.io'
+
+        # Automatically link email and phone or display as text?
+        autolink: true
+      - name: "Athens"
+        email: info@nubis-pc.eu
+        phone: +30 2221 181522
+        address:
+          street: Sfaktirias 10
+          city: Chalandri
+          region: Attiki
+          postcode: '15231'
+          country: Greece
+          country_code: GR
+        coordinates:
+          latitude: '38.01185'
+          longitude: '23.78997'
+        directions: #Enter through the green door, take the stairs to the first floor
+        office_hours:
+          - 'Monday to Friday 10:00 to 18:00'
+        appointment_url: 'https://calendly.com'
+        #contact_links:
+        #  - icon: comments
+        #    icon_pack: fas
+        #    name: Discuss on Forum
+        #    link: 'https://discourse.gohugo.io'
     
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
+        # Automatically link email and phone or display as text?
+        autolink: true
+
       # Email form provider
       form:
         provider: netlify
