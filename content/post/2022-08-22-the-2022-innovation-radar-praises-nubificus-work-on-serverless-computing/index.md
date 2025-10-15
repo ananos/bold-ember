@@ -3,9 +3,10 @@ title: "The 2022 Innovation Radar praises Nubificus' work on Serverless Computin
 date: 2022-08-22
 draft: false
 tags: ['news']
+authors: ['']
 ---
 
-![](/images/ir-logo.png#floatright)
+![](images/ir-logo.png#floatright)
 
 
 Nubificus LTD has been identified by the European Commission's [Innovation
@@ -26,7 +27,7 @@ concrete market-oriented ideas that advance technology development processes.
 
 #### 5G-COMPLETE
 
-![](/images/cropped-5g-complete-logo-horizontal.png#floatleft)
+![](images/cropped-5g-complete-logo-horizontal.png#floatleft)
 The 5G-COMPLETE project aims to revolutionize the 5G architecture, by
 efficiently combining compute and storage resource functionality over a unified
 ultra-high capacity converged digital/analog Fiber-Wireless (FiWi) Radio Access

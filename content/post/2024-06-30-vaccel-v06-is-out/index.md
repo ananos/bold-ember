@@ -3,10 +3,11 @@ title: "vAccel v0.6 is out!"
 date: 2024-06-30
 draft: false
 tags: ['news']
+authors: ['']
 ---
 
 <figure>
-        <img src="/images/vaccel-logo_draft.svg#floatright" width="180px" alt="" style="floatleft;" />
+        <img src="images/vaccel-logo_draft.svg#floatright" alt="" style="floatleft;" />
 </figure>
 
 Nubificus LTD proudly presents the latest release of the vAccel framework.
@@ -17,7 +18,7 @@ followup](https://github.com/cloudkernels/vaccelrt/releases/tag/v0.6.1) for
 for users to get started.
 
 <figure>
-        <img src="/images/pytorch-logo.png#floatright" width="50px" alt="" />
+        <img src="images/pytorch-logo.png#floatright" alt="" />
 </figure>
 
 A major addition to our previous release is Torch support. Users are now able
@@ -32,7 +33,7 @@ for easier argument definition (`exec`), as well as enhanced CI and
 [testing](https://blog.cloudkernels.net/posts/testing_post/) support.  
 
 <figure>
-        <img src="/images/golang-logo.png#floatleft" height="50px" alt="" />
+        <img src="images/golang-logo.png#floatleft" height="50px" alt="" />
 </figure>
 
 A fun addition was native [`Golang` bindings](https://github.com/nubificus/go-vaccel)! Users can now natively interact with
@@ -69,7 +70,7 @@ semantically exposes hardware acceleration features to users with little to no
 knowledge of software acceleration framework internals.
 
 <figure>
-        <img src="/images/kata-logo.png#floatleft" width="50px" alt="" />
+        <img src="images/kata-logo.png#floatleft" alt="" />
 </figure>
 
 vAccel integrates with container runtimes such as

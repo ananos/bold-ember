@@ -3,10 +3,11 @@ title: "Unikraft Hackathon"
 date: 2023-03-20
 draft: false
 tags: ['news']
+authors: ['']
 ---
 
 <figure>
-        <img src="/images/hack-athens23.jpg#floatleft" height="180px" alt="" style="border-radius: 12%"/>
+        <img src="images/hack-athens23.jpg#floatleft" alt="" style="border-radius: 12%"/>
 </figure>
 
 We are excited to host a Unikraft Hackathon in Athens, GR!  It is a great
@@ -48,7 +49,7 @@ Support information and discussions will take place on
 #### Unikraft
 
 <figure>
-        <img src="/images/unikraft-u.svg#floatleft" width="80px" alt="" />
+        <img src="images/unikraft-u.svg#floatleft" alt="" />
 </figure>
 
 Unikraft is a fast, secure and open-source Unikernel Development Kit,

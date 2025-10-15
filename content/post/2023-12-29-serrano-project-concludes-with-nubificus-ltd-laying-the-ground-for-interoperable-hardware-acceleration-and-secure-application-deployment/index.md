@@ -3,6 +3,7 @@ title: "SERRANO Project Concludes with Nubificus LTD laying the ground for Inter
 date: 2023-12-29
 draft: false
 tags: ['news']
+authors: ['']
 ---
 
 The [SERRANO](https://ict-serrano.eu) H2020 research project,
@@ -37,7 +38,7 @@ the stringent requirements of future applications and services.
 
 **SERRANO**
 <figure>
-        <img src="/images/serrano-architecture.png#floatright" height="230px" alt="" style="border-radius: 10px"/>
+        <img src="images/serrano-architecture.png#floatright" alt="" style="border-radius: 10px"/>
 </figure>
 ICT-40-2020 SERRANO Project (H2020 GA No 101017168): Transparent Application Deployment in a Secure, Accelerated and
 and Cognitive Cloud Continuum.

@@ -3,12 +3,13 @@ title: "vAccel v0.7 Released!"
 date: 2025-06-25
 draft: false
 tags: ['news']
+authors: ['']
 ---
 
 Simplified Session Management, Extended RPC Support, and Robust Backend Integration
 
 <figure>
-        <img src="/images/vaccel-logo.png#floatright" width="250px" alt="" />
+        <img src="images/vaccel-logo.png#floatright" alt="" />
 </figure>
 
 #### Key Features and Improvements

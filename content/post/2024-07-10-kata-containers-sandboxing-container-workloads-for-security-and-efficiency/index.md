@@ -3,10 +3,11 @@ title: "Kata-containers: sandboxing container workloads for security and efficie
 date: 2024-07-10
 draft: false
 tags: ['news']
+authors: ['']
 ---
 
 <figure>
-        <img src="/images/kata-logo.png#floatleft" width="70px" alt="" />
+        <img src="images/kata-logo.png#floatleft" alt="" />
 </figure>
 
 Anastassios Nanos delivered an insightful
@@ -26,7 +27,7 @@ vAccel to the container runtime.
 ##### Key Highlights of the Presentation
 
 <figure>
-        <img src="/images/oidh-photo2.png#center" height="180px" alt="" style="floatright" />
+        <img src="images/oidh-photo2.png#center" alt="" style="floatright" />
 </figure>
 
 _Kata Containers Project Overview_: Dr Nanos began by providing an overview of
@@ -37,7 +38,7 @@ and flexibility of containers with the robust security features of VMs, making
 them an ideal solution for modern cloud-native applications.
 
 <figure>
-        <img src="/images/oidh-photo1.jpg#floatleft" height="180px" alt="" style="floatleft;" />
+        <img src="images/oidh-photo1.jpg#floatleft" alt="" style="floatleft;" />
 </figure>
 
 _Go and Rust Runtimes_: A significant portion of the presentation was dedicated
@@ -58,7 +59,7 @@ enhances security but also improves the reliability and stability of serverless
 environments.
 
 <figure>
-        <img src="/images/vaccel-logo_draft.svg#floatright" width="180px" alt="" style="floatleft;" />
+        <img src="images/vaccel-logo_draft.svg#floatright" alt="" style="floatleft;" />
 </figure>
 
 _vAccel Integration_: One of the standout points of the talk was the
