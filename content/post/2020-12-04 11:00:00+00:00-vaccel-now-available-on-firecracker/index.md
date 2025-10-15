@@ -3,6 +3,7 @@ title: "vAccel now available on Firecracker"
 date: 2020-12-04 11:00:00+00:00
 draft: false
 tags: ['news']
+authors: ['']
 ---
 
 Today, Nubificus LTD introduced [vAccel][1] support on [AWS Firecracker][2],

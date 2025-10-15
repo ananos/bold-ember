@@ -3,6 +3,7 @@ title: "urunc v0.6.0 Released: Linux Guests, Volume Mounts & CNCF Sandbox"
 date: 2025-07-03
 draft: false
 tags: ['news']
+authors: ['']
 ---
 
 We are thrilled to announce the release of [`urunc` v0.6.0](https://github.com/urunc-dev/urunc/releases/tag/v0.6.0), a feature-packed
@@ -16,7 +17,7 @@ commitment to open collaboration, cloud-native principles, and production-grade
 reliability.
 
 <figure>
-        <img src="/images/urunc-logo-light.svg#floatright" width="150px" alt="" />
+        <img src="images/urunc-logo-light.svg#floatright" alt="" />
 </figure>
 
 This release adds support for WASM **[Mewz
@@ -58,7 +59,7 @@ We're especially excited about the community-building steps in this release. In
 addition to technical improvements, we’ve:
 
 <figure>
-        <img src="/images/cncf-color.svg#floatright" width="350px" alt="" />
+        <img src="images/cncf-color.svg#floatright" alt="" />
 </figure>
 
 - Introduced clear project governance

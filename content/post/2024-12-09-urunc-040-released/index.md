@@ -2,12 +2,13 @@
 title: "urunc 0.4.0 Released!"
 date: 2024-12-09
 draft: false
+authors: ['']
 tags: ['news']
 ---
 
 <figure>
-        <img src="/images/urunc-logo.png#floatright" width="70px" alt="" />
-        <img src="/images/docker-logo.webp#floatright" width="70px" alt="" />
+        <img src="images/urunc-logo.png#floatright" alt="" />
+        <img src="images/docker-logo.webp#floatright" alt="" />
 </figure>
 
 Nubificus proudly announces the release of `urunc` 0.4.0, the next-generation

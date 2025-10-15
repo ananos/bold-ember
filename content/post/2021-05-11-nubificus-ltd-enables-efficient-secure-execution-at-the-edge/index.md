@@ -3,9 +3,10 @@ title: "Nubificus LTD enables efficient & secure execution at the edge"
 date: 2021-05-11
 draft: false
 tags: ['news']
+authors: ['']
 ---
 
-![](/images/serrano-logo.png#floatright)
+![](images/serrano-logo.png#floatright)
 Nubificus LTD participates in the ICT-40-2020 SERRANO Project (H2020 GA No
 101017168): Transparent Application Deployment in a Secure, Accelerated and
 Cognitive Cloud Continuum, which kicked off in January 2021 and will last three

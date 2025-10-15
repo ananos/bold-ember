@@ -3,10 +3,11 @@ title: "Nubificus LTD at Open Source Summit Europe 2023"
 date: 2023-09-29
 draft: false
 tags: ['news']
+authors: ['']
 ---
 
 <figure>
-        <img src="/images/oss2023.png#floatleft" height="190px" alt="" style="border-radius: 10px"/>
+        <img src="images/oss2023.png#floatleft" alt="" style="border-radius: 10px"/>
 </figure>
 
 Sep 18th-21st we were in Bilbao, Spain for the [Open Source Summit Europe

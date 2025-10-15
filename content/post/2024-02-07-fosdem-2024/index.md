@@ -3,10 +3,11 @@ title: "FOSDEM 2024"
 date: 2024-02-07
 draft: false
 tags: ['news']
+authors: ['']
 ---
 
 <figure>
-        <img src="/images/FOSDEM_venue.jpg#floatright" height="230px" alt="" style="border-radius: 10px"/>
+        <img src="images/FOSDEM_venue.jpg#floatright" height="230px" alt="" style="border-radius: 10px"/>
 </figure>
 
 [FOSDEM 2024](https://fosdem.org) was a blast! Our team was there presenting
@@ -41,7 +42,7 @@ Find below the slides and video recordings of the presentations, along with link
 
 **FOSDEM**
 <figure>
-        <img src="/images/FOSDEM_logo.svg.png#floatleft" height="230px" alt="" style="border-radius: 10px"/>
+        <img src="images/FOSDEM_logo.svg.png#floatleft" alt="" style="border-radius: 10px"/>
 </figure>
 
 FOSDEM stands for "Free and Open Source Software Developers' European Meeting."

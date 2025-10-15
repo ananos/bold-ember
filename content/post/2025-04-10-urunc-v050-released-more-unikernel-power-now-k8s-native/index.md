@@ -3,11 +3,12 @@ title: "urunc v0.5.0 Released: More Unikernel Power, Now K8s-Native!"
 date: 2025-04-10
 draft: false
 tags: ['news']
+authors: ['']
 ---
 
 <figure>
-        <img src="/images/urunc-logo.png#floatright" width="70px" alt="" />
-        <img src="/images/k8s-logo.png#floatright" width="70px" alt="" />
+        <img src="images/urunc-logo.png#floatright" alt="" />
+        <img src="images/k8s-logo.png#floatright" alt="" />
 </figure>
 
 The `urunc` team is excited to announce the release of `urunc` v0.5.0, a major

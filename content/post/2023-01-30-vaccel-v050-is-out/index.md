@@ -3,10 +3,11 @@ title: "vAccel v0.5.0 is out!"
 date: 2023-01-30
 draft: false
 tags: ['news']
+authors: ['']
 ---
 
 <figure>
-        <img src="/images/vaccel-logo_draft.svg#floatright" width="180px" alt="" style="floatleft;" />
+        <img src="images/vaccel-logo_draft.svg#floatright" alt="" style="floatleft;" />
 </figure>
 
 Nubificus LTD proudly presents the latest release of the vAccel framework.
@@ -29,7 +30,7 @@ semantically exposes hardware acceleration features to users with little to no
 knoweldge of software acceleration framework internals.
 
 <figure>
-        <img src="/images/kata-logo.png#floatleft" width="50px" alt="" />
+        <img src="images/kata-logo.png#floatleft" alt="" />
 </figure>
 
 vAccel integrates with container runtimes such as
@@ -39,7 +40,7 @@ acceleration in a sandboxed container in [k8s](https://kubernetes.io) is now
 possible without complicated hardware setups! 
 
 <figure>
-        <img src="/images/unikraft-u.svg#floatright" width="50px" alt="" />
+        <img src="images/unikraft-u.svg#floatright" alt="" />
 </figure>
 
 A subset of vAccel's API is also integrated with Unikernel frameworks such as

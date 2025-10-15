@@ -93,12 +93,12 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: google
     algolia:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      show_logo: true
   map:
     provider: 'mapnik'
     api_key: ''
