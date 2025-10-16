@@ -11,7 +11,7 @@ sections:
       text: |-
         We’re always happy to hear from you. Whether you have questions about our projects, collaboration opportunities, or services, our teams are ready to assist.
 
-        With offices in multiple locations, we strive to provide timely responses and connect you with the right person for your needs. Use the interactive map below to explore our offices and find detailed contact information, including phone numbers, email addresses, and office hours.
+        With presence in multiple locations, we strive to provide timely responses and connect you with the right person for your needs. Use the interactive map below to find detailed contact information, including phone numbers, email addresses, and hours you can reach us.
 
         We look forward to connecting with you and supporting your inquiries — your message is important to us.
       locations:
@@ -67,9 +67,9 @@ sections:
         autolink: true
       - name: "Athens"
         email: info@nubis-pc.eu
-        phone: +30 2221 181522
+        phone: +30 210 6726412
         address:
-          street: Sfaktirias 10
+          street: Chalandri Office
           city: Chalandri
           region: Attiki
           postcode: '15231'

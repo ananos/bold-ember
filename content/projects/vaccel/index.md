@@ -1,5 +1,5 @@
 ---
-title: urunc - The unikernel container runtime
+title: vAccel - Hardware acceleration for the new age
 
 summary: urunc aspires to be runc for unikernels
 abstract: 'The main goal of urunc is to bridge the gap between traditional unikernels and containerized environments, enabling seamless integration with cloud-native architectures. Designed to fully leverage the container semantics and benefits from the OCI tools and methodology, urunc aims to become “runc for unikernels”, while offering compatibility with the Container Runtime Interface (CRI). Unikernels are packaged inside OCI-compatible images and urunc launches the unikernel on top of the underlying Virtual Machine or seccomp monitors. Thus, developers and administrators can package, deliver, deploy and manage unikernels using familiar cloud-native practises.'
@@ -13,7 +13,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-#authors: ["ananos","cmainas"]
+#authors: ["ananos","papazof","cmainas","mgkeka","mgkouth"]
 authors: ['']
 tags: []
 

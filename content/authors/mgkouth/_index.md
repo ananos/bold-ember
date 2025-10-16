@@ -3,8 +3,8 @@
 title: Maria Gkoutha
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Maria
+last_name: Gkoutha
 
 # Is this the primary user of the site?
 superuser: true
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Systems Software Engineers
 ---
 
 Maria Gkoutha 

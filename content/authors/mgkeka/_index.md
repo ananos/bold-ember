@@ -3,8 +3,8 @@
 title: Maria Rafaela Gkeka
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Maria Rafaela
+last_name: Gkeka
 
 # Is this the primary user of the site?
 superuser: true

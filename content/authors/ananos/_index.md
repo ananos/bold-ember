@@ -3,8 +3,8 @@
 title: Anastassios Nanos
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Anastassios
+last_name: Nanos
 
 # Is this the primary user of the site?
 superuser: true

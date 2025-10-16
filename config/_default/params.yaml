@@ -8,8 +8,13 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: native
+  font: minimal
   font_size: M
+logo:
+  light: "images/logo.png"
+  dark: "images/logo2.png"
+  alt: "Nubificus"
+
 
 # SEO
 
@@ -38,6 +43,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
+    show_theme_chooser: true
     show_search: true
     highlight_active_link: true
 
@@ -63,6 +69,8 @@ locale:
 
 features:
   syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
     enable: true
     extra_languages:
       - c

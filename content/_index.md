@@ -15,25 +15,58 @@ sections:
         <br>
 
         **Nubificus** is a specialized research group focused on tackling complex virtualization and cloud-edge computing challenges. The team regularly collaborates with leading academic institutions and R&D organizations on European projects, driving innovation in hardware acceleration, serverless frameworks, and resource orchestration for next-generation distributed infrastructures.
+  - block: portfolio
+    content:
+      title: |
+        Virtualization Research
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+
+        Our team brings state-of-the-art research to commercial projects
+      filters:
+        author: ''
+        category: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: projects
+      design:
+        view: compact
+
   - block: collection
     content:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
         exclude_featured: false
         publication_type: ''
-        tag: ''
+        tag: 'news'
       offset: 0
-      order: desc
+      #order: desc
       page_type: post
     design:
       view: card
-      columns: '1'
+      columns: '4'
   
+
+  - block: collection
+    content:
+      title: Latest Publications
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        #publication_type: 'article'
+    design:
+      view: citation
+      columns: '1'
   - block: markdown
     content:
       title:
@@ -54,18 +87,6 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-#  - block: collection
-#    content:
-#      title: Latest Preprints
-#      text: ""
-#      count: 5
-#      filters:
-#        folders:
-#          - publication
-#        publication_type: 'article'
-#    design:
-#      view: citation
-#      columns: '1'
 #
 #  - block: markdown
 #    content:

@@ -4,6 +4,7 @@ date: 2025-07-03
 draft: false
 tags: ['news']
 authors: ['']
+featured: true #'/images/urunc-logo-light.svg'
 ---
 
 We are thrilled to announce the release of [`urunc` v0.6.0](https://github.com/urunc-dev/urunc/releases/tag/v0.6.0), a feature-packed
@@ -17,7 +18,7 @@ commitment to open collaboration, cloud-native principles, and production-grade
 reliability.
 
 <figure>
-        <img src="images/urunc-logo-light.svg#floatright" alt="" />
+        <img src="images/urunc-logo-light.svg#floatright" alt="" width="100px"/>
 </figure>
 
 This release adds support for WASM **[Mewz
