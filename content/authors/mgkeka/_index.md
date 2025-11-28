@@ -10,11 +10,11 @@ last_name: Gkeka
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Systems Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Nubificus LTD
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2022-10-24
+date: 2025-10-20
 
 type: landing
 
@@ -17,6 +17,8 @@ sections:
           - Administration
           - Visitors
           - Alumni
+          - Software Engineers
+          - Systems Software Engineers
       sort_by: Params.last_name
       sort_ascending: true
     design:
